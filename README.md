@@ -1,5 +1,4 @@
-# calculator-program
-A simple calculator created using HTML, CSS, and JavaScript as part of frontend learning and practice.
+
 # Calculator Practice (HTML, CSS, JavaScript)
 
 This repository contains a simple calculator created for learning and practice purposes.
